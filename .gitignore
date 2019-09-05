@@ -1,0 +1,14 @@
+#Ignore .idea folder
+\.idea/
+#Ignore user.home folder
+${user\.home}
+#Ignore target folder
+target/
+#Ignore logs folder
+logs/
+#Ignore build.log file
+build.log
+#Ignore build.properties file
+build.properties
+#Ignore all bat files
+*.bat
